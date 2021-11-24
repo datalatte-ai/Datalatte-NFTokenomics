@@ -48,9 +48,9 @@ According to our simulations, for at least few years, Dia stays the major pie ho
 
 A simulation of such NFTs sharing the pie is done with a simplified vector based linear model in MATLAB. The x-axis shows the iterations in the model with a randomly chosen NFT completing a data quest. The number of NFTs in this simulation is 1101 given the limitations of vector sizes and reducing computation time. However, the pie shares given to each category is kept the same as for 10101. 
 
-
-
+![pie](https://user-images.githubusercontent.com/90555973/143238130-8a1f9e45-8a2c-42ab-8af1-e4ded69b299f.png)
 Fig. MATLAB model simulation, model can be found: https://github.com/datalatte-ai/Datalatte-NFTokenomics
+
 Are all these parameters fixed? 
 Nope, this is just to open the discussion and start the work. To set it in stone, more simulations especially with TokenSPICE is needed to make the business model viable for the DAO operator to reach sustainability. It might be that some parameters slightly change, but pie will be shared at the end!
 Who decides for any changes?
