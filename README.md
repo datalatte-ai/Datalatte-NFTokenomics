@@ -1,3 +1,5 @@
+Read following text as well in our medium channel: https://medium.com/@datalatte.ai/nftokenomics-lightpaper-64b2d91a867a
+
 #NFTokenomics lightpaper
 In datalatte.ai, we share the pie.
 Why NFT.datalatte.ai?
@@ -75,6 +77,3 @@ You need to join our discord channel. Here, our bots will make sure to put you o
 
 Wen DAO?
 As soon as you get your NFT, you immediately become part of datalatte.ai DAO. We believe in a future where platforms are owned and governed by the community. Therefore, we are inviting everyone to come and share the pie with us. We will work on our future pie recipes together as a community and introduce other delicious recipes together.
-
-When does datalatte.ai Cafe open?
-Whitelisting starts from 01.12.21 and 101 NFT drop is scheduled on 07.12.21.
